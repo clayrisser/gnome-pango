@@ -1,6 +1,6 @@
 {
   "name": "gnome-pango",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "typescript bindings for gnome pango",
   "keywords": [
     "gnome-pango",
@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "core-js": "^3.2.1",
-    "gnome-glib": "0.0.3",
+    "gnome-glib": "0.0.4",
     "gnome-gobject": "0.0.4"
   },
   "devDependencies": {
