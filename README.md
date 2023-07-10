@@ -4,6 +4,8 @@
 
 > typescript bindings for gnome pango
 
+![](assets/gnome-pango.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
